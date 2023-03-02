@@ -1,0 +1,8 @@
+.card img {
+    height: 30vh;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
